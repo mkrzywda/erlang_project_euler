@@ -1,9 +1,12 @@
-project_euler
+Project Euler
 =====
 
-project euler solutions in Erlang
+Project Euler solutions in Erlang
+  https://projecteuler.net/archives
+
 
 Build
 -----
 
     $ rebar3 compile
+https://projecteuler.net/archives
